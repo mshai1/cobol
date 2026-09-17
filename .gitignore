@@ -1,0 +1,8 @@
+# Dependency directories (never commit node_modules)
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+
+
